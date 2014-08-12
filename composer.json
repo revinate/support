@@ -19,7 +19,6 @@
             "Illuminate\\Support\\": ""
         },
         "files": [
-            "helpers.php"
         ]
     },
     "extra": {
